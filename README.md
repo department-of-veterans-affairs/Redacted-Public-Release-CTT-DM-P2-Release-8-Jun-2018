@@ -1,2 +1,3 @@
 # Redacted-Public-Release-CTT-DM-P2-Release-8-Jun-2018-
 Repository containing the CIF submission for Collaborative Terminology Tooling and Data Management Phase 2 Release 8 rec Jun 2018
+The overarching enterprise goal of the Collaborative Terminology Tooling & Data Management (CTT & DM) project is to consolidate all the various terminology systems (Lexicon, Logical Observation Identifiers, Names and Codes (LOINC), Consolidated Health Data Repository (CHDR), Systematized Nomenclature of Medicine-Clinical Terms (SNOMED-CT), RxNorm, and others) into a single system that initially integrates with, and eventually replaces, the Veterans Health Enterprise and Terminology Services (VETS). 
